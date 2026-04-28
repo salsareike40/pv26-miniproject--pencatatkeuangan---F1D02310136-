@@ -7,7 +7,7 @@
 
 Aplikasi Pencatat Keuangan adalah aplikasi desktop berbasis GUI yang dikembangkan menggunakan Python dan PySide6 untuk membantu pengguna dalam mencatat serta mengelola pemasukan dan pengeluaran secara sederhana. Aplikasi ini memungkinkan pengguna untuk menyimpan data transaksi ke dalam database SQLite, menampilkannya dalam bentuk tabel, serta menghitung total saldo secara otomatis sehingga memudahkan pemantauan kondisi keuangan.
 
-## ⚙️ Fitur Utama
+## Fitur Utama
 
 * Menambahkan data transaksi 
 * Mengedit data transaksi
